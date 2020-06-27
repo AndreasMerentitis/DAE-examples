@@ -17,6 +17,7 @@ Or, you can get the latest version by cloning this repository and installing fro
 pip install .
 ```
 <br>
+
 # Usage
 The [demo notebook](demo_data/demo.ipynb) is available to show some of the features of this library.
 Compared to the original project, some more examples have been added
