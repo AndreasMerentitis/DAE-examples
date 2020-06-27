@@ -1,6 +1,6 @@
 # AutoEncoders for tabular data examples
 
-This project is based on on the dfencoder library providing feature rich denoising autoencoders suited for tabular data. Details for installation are provided bellow. 
+This project is based on on the dfencoder library that provides feature rich denoising autoencoders suited for tabular data. Details for installation are provided bellow. 
 
 
 # Installation
@@ -32,6 +32,6 @@ The `adult.csv` dataset is used in the testing script. Make sure the file (found
 
 
 # Extending and reusing the basic idea from these sources:
-* https://blog.doit-intl.com/predict-taxi-ride-fare-using-amazon-sagemaker-in-5-easy-steps-ae853796af40
+https://github.com/AlliedToasters/dfencoder.git
 
 
