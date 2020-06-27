@@ -16,14 +16,13 @@ Or, you can get the latest version by cloning this repository and installing fro
 ```
 pip install .
 ```
-<br><br>
+<br>
 # Usage
 The [demo notebook](demo_data/demo.ipynb) is available to show some of the features of this library.
 Compared to the original project, some more examples have been added
 
 # Running the tests
 The `adult.csv` dataset is used in the testing script. Make sure the file (found in the root of this repo) is in the same directory as `test.py` when you run the script.
-
 
 # Examples in the demo
 * Training the DAE to dect
